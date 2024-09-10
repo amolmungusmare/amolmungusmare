@@ -15,9 +15,9 @@ Hey Coderz!   This is  Amol.M
 
 ### Programming Langauages
 
-![python](https://cdn-icons-png.flaticon.com/512/919/919852.png)
+<!-- ![python](https://cdn-icons-png.flaticon.com/512/919/919852.png)
 ![javascript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
-![typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png)
+![typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png) -->
 
 
 ### Frontend
